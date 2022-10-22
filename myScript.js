@@ -20,7 +20,7 @@ export function chGenerate(chat){
     return getSecret("cohere_API_Key").then(async function(product) {
 		console.log(product)
         cohere.init(product);
-        const response = await cohere.generate({ prompt: chat});
+        const response = await cohere.generate({ prompt: chat, stop_sequences: ["\n"]});
         console.log(response)
         return(response);
 	});
