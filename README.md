@@ -1,13 +1,11 @@
 # CiceroAI
 
+### A multi-function educational website to assist students, especially those that come from low-income families.
+
 ![Cicero](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg/230px-Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg)
 
 ### “Cultivation to the mind is as necessary as food to the body.”
-
 \- Marcus Tullius Cicero
-
-#### A multi-function educational website to assist students, especially those that come from low-income families.
-
 
 ## Inspiration
 ![SparkNotes](https://www.sparknotes.com/images/banner-homepage.svg)
